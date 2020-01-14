@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "28.uzd whole number check", "28.uzd whole number check\28.uzd whole number check.csproj", "{4C0B988A-9174-4B9E-AAB3-C044F8891180}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C0B988A-9174-4B9E-AAB3-C044F8891180}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C0B988A-9174-4B9E-AAB3-C044F8891180}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C0B988A-9174-4B9E-AAB3-C044F8891180}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C0B988A-9174-4B9E-AAB3-C044F8891180}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4252D55-795D-4F08-BC2A-79CA279F5C18}
+	EndGlobalSection
+EndGlobal
